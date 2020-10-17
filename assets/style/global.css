@@ -1,0 +1,16 @@
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+body .main-container {
+    max-width: 1170px;
+}
+svg {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    pointer-events: none;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}

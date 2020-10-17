@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5721b759-31c9-4701-bdbc-4b7bb3d0027a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irrVQlsFAlBeA3Q3AU0Xj2wYdK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/swiper" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/swiper" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/slider" />
+      <recent name="$PROJECT_DIR$/lib/swiper" />
+      <recent name="$PROJECT_DIR$/lib/tailwind/css" />
+      <recent name="$PROJECT_DIR$/lib/bootstrap" />
+      <recent name="$PROJECT_DIR$/lib/vue" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5721b759-31c9-4701-bdbc-4b7bb3d0027a" name="Default Changelist" comment="" />
+      <created>1602676575627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602676575627</updated>
+      <workItem from="1602676582401" duration="42000" />
+      <workItem from="1602676642826" duration="6844000" />
+      <workItem from="1602769662605" duration="31994000" />
+      <workItem from="1602897484848" duration="4364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602840068312">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1602840068312" />
+    <state x="371" y="210" key="EditFileWatcherDialog" timestamp="1602683502512">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="371" y="210" key="EditFileWatcherDialog/0.23.1440.804@0.23.1440.804" timestamp="1602683502512" />
+    <state x="221" y="64" key="SettingsEditor" timestamp="1602773532247">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1602773532247" />
+  </component>
+</project>

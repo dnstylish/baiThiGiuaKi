@@ -1,0 +1,8 @@
+@import "../../lib/tailwind/css/tailwind.min.css";
+@import "global.css";
+@import "animation.css";
+@import url('header.css');
+@import "body.css";
+@import url('form.css');
+@import url('our-partner.css');
+@import "footer.css";
