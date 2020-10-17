@@ -8,8 +8,9 @@ const ready = callback => {
 ready(() => {
     document.addEventListener('scroll', () => {
         stickHeader()
-        // mobileMenuClick()
     })
+    // mobileMenuClick()
+    onTop()
 })
 
 function stickHeader() {
@@ -23,9 +24,16 @@ function stickHeader() {
     }
 }
 
+function onTop() {
+    const button = document.querySelector('.on-top-button')
+    button.addEventListener('click', () => {
+        document.querySelector('body').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"})
+    })
+}
+
 /*function mobileMenuClick() {
     const links = document.querySelectorAll(".mobile-menu-wrap ._has_childs")
-    links.map((link) => {
+    links.forEach((link) => {
         console.log(link)
         link.addEventListener('click', ($event) => {
             console.log('ok')
