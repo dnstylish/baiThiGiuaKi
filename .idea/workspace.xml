@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5721b759-31c9-4701-bdbc-4b7bb3d0027a" name="Default Changelist" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/body.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5721b759-31c9-4701-bdbc-4b7bb3d0027a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,7 @@
       <workItem from="1602676582401" duration="42000" />
       <workItem from="1602676642826" duration="6844000" />
       <workItem from="1602769662605" duration="31994000" />
-      <workItem from="1602897484848" duration="6426000" />
+      <workItem from="1602897484848" duration="6720000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1602911026968</created>
@@ -75,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602911026968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Fixed Contact">
+      <created>1602912935568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602912935568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,17 +85,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="add Fixed Contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Fixed Contact" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602840068312">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1602840068312" />
-    <state x="265" y="23" key="CommitChangelistDialog2" timestamp="1602911150706">
+    <state x="265" y="23" key="CommitChangelistDialog2" timestamp="1602912935441">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="265" y="23" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1602911150706" />
+    <state x="265" y="23" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1602912935441" />
     <state x="371" y="210" key="EditFileWatcherDialog" timestamp="1602683502512">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -110,9 +113,9 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="221" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1602773532247" />
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1602911030848">
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1602912939166">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1602911030848" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1602912939166" />
   </component>
 </project>
